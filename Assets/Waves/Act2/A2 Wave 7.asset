@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76a8074929ceba7468f46735b082276e, type: 3}
+  m_Name: A2 Wave 7
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 6719909494526261339, guid: fe46a3a9507247d45889eede41da70a0,
+    type: 3}
+  pathPrefab: {fileID: 163308010453195918, guid: a844699f86a08794082b429bcc514bc9,
+    type: 3}
+  timeBetweenSpawns: 1.5
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 7
+  moveSpeed: 5
